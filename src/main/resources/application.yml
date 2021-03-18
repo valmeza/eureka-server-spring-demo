@@ -8,4 +8,4 @@ server:
 
 spring:
   application:
-    name: eureka-demo
+    name: eureka-server-demo
